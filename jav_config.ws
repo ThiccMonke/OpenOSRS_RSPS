@@ -3,7 +3,7 @@ adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=http://135.148.52.93
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_2417336.jar
+initial_jar="C:\Users\Account\Desktop\WZRZzzS1Q7ccYGeAWX7EPvGSRoJEHTokqviHGaDqTZy0YaHD\RegicideHD.jar"
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
